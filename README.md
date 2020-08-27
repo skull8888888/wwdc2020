@@ -1,5 +1,7 @@
 # wwdc2020
-Project submitted for the WWDC2020 student swift challenge (Accepted)
+Winner project of WWDC2020 student swift challenge.
+
+UR5 Robot Arm simulation in SceneKit
 
 # Demo
-![Demo](/wwdc_playground_Robert.gif)
+<img src="/wwdc_playground_Robert.gif" width="300" height="300"/>
