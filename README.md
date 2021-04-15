@@ -1,5 +1,5 @@
 # wwdc2020
-Winner project of WWDC2020 student swift challenge.
+Winner project of the Apple WWDC2020 student swift challenge.
 
 UR5 Robot Arm simulation in SceneKit
 
